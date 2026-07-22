@@ -1,1 +1,1 @@
-print("learning of git:) 
+print("learning of git merge:) 
