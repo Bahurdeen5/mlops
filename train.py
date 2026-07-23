@@ -1,1 +1,1 @@
-print("hello this is learning of git")
+print("hello this is learning of git merge:")
